@@ -13,3 +13,4 @@ token:
 
 order_service:
   url: http://MY-ORDER-SERVICE/order-service/%s/orders
+  test: test
