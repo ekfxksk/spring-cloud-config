@@ -14,5 +14,5 @@ token:
 order_service:
   url: http://MY-ORDER-SERVICE/order-service/%s/orders
   exception:
-    orders_is_empty: User' is orders is empty.1
+    orders_is_empty: User' is orders is empty._1
   
